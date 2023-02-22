@@ -1,0 +1,45 @@
+.images img{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: -30%;
+    
+}
+ h1{
+    padding-left: 0;
+}
+
+h2{
+padding-left: 0;
+margin-left: 10px;
+}
+#playbutton{
+    font-weight: bold;
+    justify-content: flex-start;
+    padding: 50px;
+    border-radius: 20px;
+    border: 0 auto;
+}
+#button{
+    padding: 30px
+    
+}
+.bar{
+    display: flex;
+    flex-direction: row;
+
+}
+
+h1{
+    display: flex;
+}
+
+li{
+    font-weight: bold;
+    float: left;
+    text-align: center;
+    position: horizontal;
+    justify-content: 10px;
+}
+h2{
+    padding: right 80px;
+}
