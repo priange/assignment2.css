@@ -32,14 +32,23 @@ margin-left: 10px;
 h1{
     display: flex;
 }
+.bar ul li{
+    flex: left;
+    text-align: center;
+position: horizontal;
 
-li{
+}
+.bar ul li{
     font-weight: bold;
     float: left;
     text-align: center;
     position: horizontal;
     justify-content: 10px;
+    padding: 25px;
 }
 h2{
     padding: right 80px;
 }
+
+    
+    
